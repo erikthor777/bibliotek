@@ -91,3 +91,13 @@ section {
     font-weight: bold;
     font-style: italic;
 }
+
+.form  {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-item {
+    display: flex;
+    margin: 1rem;
+}
