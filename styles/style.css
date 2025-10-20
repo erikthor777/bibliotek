@@ -48,7 +48,7 @@ h1 {
     text-align: center;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
     font-family: 'Vipnagorgialla', 'Vipnagorgialla Italic', 'Vipnagorgialla Bold Italic', Helvetica, Arial, sans-serif;
 }
 
@@ -56,11 +56,15 @@ a {
     color: lightcyan;
 }
 
+a:visited {
+    color: rgb(176, 255, 251);
+}
+
 section {
     margin: 3rem;
 }
 
-.centred {
+#centred {
     text-align: center;
 }
 
